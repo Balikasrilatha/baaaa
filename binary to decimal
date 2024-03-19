@@ -1,0 +1,14 @@
+#n=int(input())
+#decimal=0
+#while(n>0):
+    #print(decimal);
+    #decimal=2*decimal+n%10
+   # n=n//10
+  #  print(decimal)
+          
+def bintodec(n)
+    if n==0
+       return 0
+    return 2*bintodec(n/10)+n%10
+n=int(input())
+decimal=0:
